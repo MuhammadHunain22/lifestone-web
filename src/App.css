@@ -1,0 +1,22 @@
+* {
+  padding: 0%;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+*:focus{
+  outline: none;
+}
+
+:root {
+  --primary: #e73f3f;
+  --textPrimary: #252A34;
+  --textLight: #AFAFAF;
+  --bgLight: #f6f9fc;
+  --light: #ffffff;
+  --dark: #000000;
+}
+
+#root {
+  overflow-x: hidden !important;
+}
